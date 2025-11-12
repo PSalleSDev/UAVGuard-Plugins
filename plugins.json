@@ -3,5 +3,10 @@
     "model": "e88pro",
     "version": "1.0.0",
     "link": ""
+  },
+  {
+    "model": "wrj12620",
+    "version": "1.0.0",
+    "link": ""
   }
 ]
